@@ -1,16 +1,10 @@
 # swift_transfer
 
-A new Flutter project.
+This is my under graduate project for 2024.
 
 ## Getting Started
+Before you can run this app you have to run a command on the terminal, The command should be 
 
-This project is a starting point for a Flutter application.
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And it will download all dependencies, then you can go to the main file and run the code
